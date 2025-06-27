@@ -1,4 +1,4 @@
-PlayerID=("279")
+PlayerID=("ТЕСТЕР")
 BanStatus=("false")
 BanReason=("")
 IP=("oKwpyH/PBBdmLjHldCKcSw==")
